@@ -63,10 +63,8 @@ No Speech Studio explorei recursos relacionados à fala, incluindo:
 
 ### 📸 Prints (exemplos)
 
-```
-![transcricao1](images/language_speech1.png)
-![transcricao2](images/language_speech2.png)
-```
+![transcricao1](./images/language_speech1.png)
+![transcricao2](./images/language_speech2.png)
 
 ---
 
@@ -82,15 +80,12 @@ No Language Studio explorei análise de sentimentos e extração de entidades:
 
 ### 📸 Prints (exemplos)
 
-```
-![sentimentos](images/language_sentiment1.png)
-![sentimentos](images/language_sentiment2.png)
-![sentimentos](images/language_sentiment3.png)
-![sentimentos](images/language_sentiment4.png)
-![entidade](images/language_entity1.png)
-![entidade](images/language_entity2.png)
-
-```
+![sentimentos](./images/language_sentiment1.png)
+![sentimentos](./images/language_sentiment2.png)
+![sentimentos](./images/language_sentiment3.png)
+![sentimentos](./images/language_sentiment4.png)
+![entidade](./images/language_entity1.png)
+![entidade](./images/language_entity2.png)
 
 ---
 
